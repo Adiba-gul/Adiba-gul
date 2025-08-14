@@ -5,6 +5,8 @@
 
 
 
+
+
 ## 👩‍💻 About Me  
 Hey! I'm Adiba gul a passionate software engineering student with a love for turning ideas into impactful digital solutions.  
 I enjoy building creative projects, learning new skills, and solving real-world problems through the power of technology.  
@@ -16,7 +18,11 @@ I enjoy building creative projects, learning new skills, and solving real-world 
 
 
 
+
+
 🚀 Projects
+
+
 CrisisConnect – Crisis Support Platform (APAC Solution Challenge 2025)
 📌 A digital platform to assist people during medical & personal crises.
 ✅ Features: Emergency info access, chatbot support, mental health awareness.
@@ -26,6 +32,8 @@ Text-Based Game in C (University Hackathon – Semester I)
 
 HR Management System (Java OOP + GUI) (2nd Semester)
 📌 GUI-based system for employee management with salary calculation & entry/exit tracking.
+
+
 
 
 🛠 Skills
@@ -39,16 +47,13 @@ JavaScript
 
 
 
+
+
 Soft Skills:
 
 🤝 Strong Communication & Presentation Skills
-
 👥 Effective Team Collaboration
-
 🧠 Creative & Critical Thinking
-
 ⚡ Problem-Solving Under Pressure
-
 📅 Time Management & Organizational Skills
-
 🎯 Goal-Oriented & Self-Motivated
